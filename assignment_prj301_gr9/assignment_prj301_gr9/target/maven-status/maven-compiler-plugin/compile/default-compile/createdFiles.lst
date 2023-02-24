@@ -1,0 +1,3 @@
+Model\UserSession.class
+Model\Order.class
+Manager\CartManager.class

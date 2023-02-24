@@ -1,0 +1,7 @@
+Model\Product.class
+Model\UserSession.class
+Controller\AccessController.class
+Utils\DBUtils.class
+Controller\HomeController.class
+Manager\AccessManager.class
+Manager\ProductManager.class
